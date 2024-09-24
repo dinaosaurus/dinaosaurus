@@ -1,5 +1,8 @@
 # Hi 👋, I'm Dina
 
+-----------------------------------------------
+
+
 I am an IT student at EPITA.
 
 I’m interested in coding, gaming but also music.
