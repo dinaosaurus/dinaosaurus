@@ -1,4 +1,14 @@
-# Hi 👋, I'm Dina
+<picture>
+  <source
+    srcset="ressources/in_another_universe.jpeg"
+    width="100%"
+  />
+</picture>
+
+<h1 align="center">
+  Hi 👋, I'm Dina
+</h1>
+
 
 -----------------------------------------------
 
