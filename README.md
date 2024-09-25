@@ -1,9 +1,5 @@
-<picture>
-  <source
-    srcset="ressources/in_another_universe.jpeg"
-    width="100%"
-  />
-</picture>
+<img src=ressources/in_another_universe.jpeg width="400" >
+
 
 <h1 align="center">
   Hi 👋, I'm Dina
